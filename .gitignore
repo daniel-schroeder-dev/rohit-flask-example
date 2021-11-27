@@ -1,0 +1,4 @@
+.venv/
+.env
+passwords.sqlite
+__pycache__/
